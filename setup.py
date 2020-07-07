@@ -4,7 +4,7 @@ with open("../data_GodingWal/README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="GDataTool", # the name that you will install via pip
+    name="DataTool", # the name that you will install via pip
     version="1.0",
     author="Goding Wal",
     author_email="gwal325@gmail.com",
